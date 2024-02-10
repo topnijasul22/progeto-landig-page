@@ -1,2 +1,2 @@
-# progeto-landig-page
+# projeto-landig-page
 primeiro projeto
